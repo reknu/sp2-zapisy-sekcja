@@ -1,0 +1,5 @@
+System Operacyjny: Windows 10 Pro Education
+
+Edytor Kodu: Visual Studio Code
+Języki: HTML, JavaScript, React
+Frameworki/biblioteki: Bootstrap, Vite
